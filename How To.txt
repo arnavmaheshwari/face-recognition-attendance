@@ -1,0 +1,4 @@
+1. Run the main.py
+2. Managing the database->Add Student->Add Class/Section: Any Name->Add students
+3. Train Model for that same class name
+4. Then start session for attendance, it'll recognize faces
